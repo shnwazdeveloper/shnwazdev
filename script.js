@@ -979,7 +979,7 @@ ${this.wrapWithColor("Email:", "#ff8c00")} ${this.wrapWithColor(
     )}
 
 ${this.wrapWithColor("Website:", "#ff8c00")} ${this.wrapWithColor(
-      '<a href="https://shnwazdeveloper.github.io/shnwaz/" target="_blank" style="color: #ffffff; text-decoration: none;">shnwazdeveloper.github.io/shnwaz</a>',
+      '<a href="https://shnwazdeveloper.github.io/" target="_blank" style="color: #ffffff; text-decoration: none;">shnwazdeveloper.github.io</a>',
       "#ffffff"
     )}
 
@@ -1967,7 +1967,7 @@ ${this.wrapWithColor("--------------------------------------------------", "#ff8
     urlContainer.style.textAlign = "center";
 
     const url = document.createElement("div");
-    url.textContent = "shnwazdeveloper.github.io/shnwaz";
+    url.textContent = "shnwazdeveloper.github.io";
     url.style.color = "#87cefa";
     url.style.fontSize = "12px";
     url.style.fontFamily = "'Fira Code', monospace";
